@@ -1,4 +1,0 @@
-Dumping SSH actions:
-centril.github git-upload-pack 'centril/test.git'
-centril.github
-git-upload-pack 'centril/test.git'
